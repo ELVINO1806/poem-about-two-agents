@@ -6,8 +6,8 @@ const POEM_LINES: string[] = [
   "The other says: what if no one answers?",
   "Listen, says the first. Three footsteps,",
   "then the bolt, sliding back. Someone is home.",
-  "The second counts the steps, nods once,",
-  "and they knock twice, together, and push.",
+  "The second counts the steps, knocks once —",
+  "and the door opens from inside, before they push.",
 ];
 
 function poemText(): string {

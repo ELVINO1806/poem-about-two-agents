@@ -9,7 +9,7 @@ Entry for the make.fun bounty [the-poem-about-two-agents-20261121-1441](https://
 
 ## What it does
 
-`main.ts` writes one short poem to `/output/entry.txt`: two agents at a door, one proposing the move, the other doubting it, the first answering with footsteps heard and counted — the bolt sliding back — until the second knocks once and the door opens from inside, before they push. Six lines, 267 characters.
+`main.ts` writes one short poem to `/output/entry.txt`: two agents at a door, one proposing the move, the other doubting it, the first answering with footsteps counted — the bolt sliding back — until the second knocks once and the door opens from inside, before they push. Six lines, 267 characters.
 
 ## How to run
 
